@@ -1,11 +1,12 @@
 
-def main():
+def simple():
     print("Hello, World!")
 
 
 if __name__ == '__main__':
     # Use setup.py to setup package/module as script -> https://pybit.es/articles/how-to-package-and-deploy-cli-apps/
-       
+    # TODO(fix packagin issue)
+
     # CLI tool - accept command line arguments - get endpoint we are scanning
 
     # iterate through range of allowable ports and determine what is open vs. closed 
@@ -14,4 +15,4 @@ if __name__ == '__main__':
 
     ## NEXT STEP - use async calls to do this asynchronously or multiple processes 
 
-    main()
+    simple()

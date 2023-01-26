@@ -1,0 +1,5 @@
+.venv/*
+.env/*
+dist/*
+python_port_scanner.egg-info/*
+portscanner.egg-info/
