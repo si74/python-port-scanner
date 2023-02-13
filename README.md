@@ -14,3 +14,17 @@ TODO(sneha): has no setup.py
 source /Users/singuva/sites/python-port-scanner/.venv/bin/activate
 ```
 
+# To run as a console script 
+
+# Next steps (TODO)
+
+1. Get this working as a package CLI tool in python - https://pybit.es/articles/how-to-package-and-deploy-cli-apps/
+
+## References
+
+Socket Programming: 
+- http://pymotw.com/2/socket/tcp.html
+- https://blog.cloudflare.com/how-to-stop-running-out-of-ephemeral-ports-and-start-to-love-long-lived-connections/
+
+Configuring packages: 
+- 
